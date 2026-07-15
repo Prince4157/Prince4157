@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prince+Sahu+%F0%9F%91%8B;Full-Stack+Developer;CSE+Student+%40+RGIPT;Building+Motopack+%F0%9F%8F%8D%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prince+Sahu+%F0%9F%91%8B;Full-Stack+Developer;CSE+Student+%40+RGIPT;" alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 - 🎓 3rd-year **Computer Science** student at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**
 - 🏍️ Currently building **[Motopack](https://www.motopack.live)** — a real-time social platform for motorcycle group riders
-- 📚 Also shipping **BooksConnect**, a campus textbook marketplace, and running a freelance web dev practice for small businesses in the UK, Switzerland & Sweden
+- 📚 Also shipping **BooksConnect**, a campus textbook marketplace.
 - 🔐 Interested in **cybersecurity** — built **Apoha**, a secure data-sanitization tool (DoD 5220.22-M, Gutmann)
 - 💬 Ask me about full-stack web dev, real-time systems, or ride-sharing platforms
 
