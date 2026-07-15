@@ -18,7 +18,6 @@
 - 🏍️ Currently building **[Motopack](https://www.motopack.live)** — a real-time social platform for motorcycle group riders
 - 📚 Also shipping **BooksConnect**, a campus textbook marketplace, and running a freelance web dev practice for small businesses in the UK, Switzerland & Sweden
 - 🔐 Interested in **cybersecurity** — built **Apoha**, a secure data-sanitization tool (DoD 5220.22-M, Gutmann)
-- 🌱 Preparing for **CAT 2027** while keeping one eye on a long-term ambition in **space entrepreneurship**
 - 💬 Ask me about full-stack web dev, real-time systems, or ride-sharing platforms
 
 <br>
